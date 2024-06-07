@@ -5,9 +5,14 @@
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:krita="http://krita.org/namespaces/svg/krita"
     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    width="464.4pt"
-    height="108pt"
-    viewBox="0 0 464.4 108">
-<defs/>
-<rect id="shape0" transform="translate(2.42999990268612, 2.96999996957371)" fill="none" stroke="#2e2c2b" stroke-width="3.6" stroke-linecap="square" stroke-linejoin="bevel" width="459.539995364645" height="102.689995799075" rx="17.2666070749679" ry="17.4573004574021"/>
+    width="612pt"
+    height="142.56pt"
+    viewBox="0 0 612 142.56">
+<defs>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0.0428008562792728" y1="0.239024781556804" x2="0.0536255111583017" y2="0.760975218443196" spreadMethod="pad">
+   <stop stop-color="#888795" offset="0" stop-opacity="1"/>
+   <stop stop-color="#393758" offset="1" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+<rect id="shape0" transform="matrix(0.758823529411765 0 0 0.757575757575758 0 0)" fill="#00ff00" fill-rule="evenodd" width="612" height="142.56"/><rect id="shape1" transform="translate(2.42999990268612, 2.96999996957371)" fill="none" stroke="url(#gradient0)" stroke-width="2.16" stroke-linecap="square" stroke-linejoin="bevel" width="459.539995364645" height="102.689995799075" rx="17.2666070749679" ry="17.4573004574021"/>
 </svg>
