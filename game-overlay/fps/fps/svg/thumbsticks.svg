@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="78.75pt"
+    height="78.75pt"
+    viewBox="0 0 78.75 78.75">
+<defs>
+  <radialGradient id="gradient0" gradientUnits="objectBoundingBox" cx="0.499961606128746" cy="0.499814642776724" fx="0.499961606128746" fy="0.499814642776724" r="1.4142135623731" spreadMethod="pad">
+   <stop stop-color="#a5a8af" offset="0.283730149269104" stop-opacity="1"/>
+   <stop stop-color="#6a6c70" offset="0.353174597024918" stop-opacity="1"/>
+   <stop stop-color="#1c1818" offset="0.615079343318939" stop-opacity="1"/>
+  </radialGradient>
+  <radialGradient id="gradient1" gradientUnits="objectBoundingBox" cx="0.499961606128746" cy="0.499814642776724" fx="0.499961606128746" fy="0.499814642776724" r="1.4142135623731" spreadMethod="pad">
+   <stop stop-color="#707276" offset="0.283730149269104" stop-opacity="1"/>
+   <stop stop-color="#202020" offset="0.60912698507309" stop-opacity="1"/>
+  </radialGradient>
+  <radialGradient id="gradient2" gradientUnits="objectBoundingBox" cx="0.524790680181134" cy="0.606909734200717" fx="0.594853442854065" fy="0.909055188863605" r="1.4142135623731" spreadMethod="pad">
+   <stop stop-color="#000000" offset="0.158730164170265" stop-opacity="0"/>
+   <stop stop-color="#35343f" offset="0.452380955219269" stop-opacity="0.443137254901961"/>
+   <stop stop-color="#484848" offset="0.51587301492691" stop-opacity="1"/>
+  </radialGradient>
+  <radialGradient id="gradient3" gradientUnits="objectBoundingBox" cx="0.499961606128746" cy="0.499814642776724" fx="0.499961606128746" fy="0.499814642776724" r="1.4142135623731" spreadMethod="pad">
+   <stop stop-color="#848488" offset="0.0615079365079365" stop-opacity="1"/>
+   <stop stop-color="#000000" offset="0.369047619047619" stop-opacity="0"/>
+  </radialGradient>
+ </defs>
+<ellipse id="shape0" transform="matrix(0.999943262871019 0.0106522785759865 -0.0106522785759865 0.999943262871019 11.6792586739969 11.093826874158)" rx="27.9975787546157" ry="27.994923904023" cx="27.9975787546157" cy="27.994923904023" fill="url(#gradient0)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/><ellipse id="shape01" transform="matrix(0.999943262871019 0.0106522785759865 -0.0106522785759865 0.999943262871019 17.8674054233463 17.4063193850341)" rx="21.7403908033436" ry="21.7383292861704" cx="21.7403908033436" cy="21.7383292861704" fill="url(#gradient1)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/><ellipse id="shape03" transform="matrix(0.974147955128699 0.225910959270646 -0.225910959270646 0.974147955128699 22.8139579335585 12.8163995191591)" rx="22.1327841753368" ry="22.1306854497397" cx="22.1327841753368" cy="22.1306854497397" fill="url(#gradient2)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/><ellipse id="shape02" transform="matrix(0.999943262871019 0.0106522785759865 -0.0106522785759865 0.999943262871019 17.4792138017819 10.0597917573142)" rx="22.1327841753368" ry="22.1306854497397" cx="22.1327841753368" cy="22.1306854497397" fill="url(#gradient3)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+</svg>
