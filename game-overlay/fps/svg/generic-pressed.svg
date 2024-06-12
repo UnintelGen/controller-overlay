@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Krita: https://krita.org -->
+
+<svg
+   width="86.25pt"
+   height="36pt"
+   viewBox="0 0 86.25 36"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="generic-pressed.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="4.0581781"
+     inkscape:cx="29.077088"
+     inkscape:cy="21.684608"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="gradient0"
+       gradientUnits="objectBoundingBox"
+       x1="0.445263768605926"
+       y1="0.232920545215902"
+       x2="0.449914465091595"
+       y2="1.08240848495106"
+       spreadMethod="pad">
+      <stop
+         stop-color="#ffffff"
+         offset="0"
+         stop-opacity="1"
+         id="stop1" />
+      <stop
+         stop-color="#6b6a7b"
+         offset="1"
+         stop-opacity="1"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <path
+     id="shape0"
+     fill="url(#gradient0)"
+     fill-rule="evenodd"
+     stroke="#1a1a1a"
+     stroke-width="3.75"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     d="M6.37042 0.585956C21.4378 -0.178061 56.1468 -0.212388 72.5579 0.585956C75.5092 0.585956 77.9017 2.97843 77.9017 5.92971C79.0658 12.1841 78.987 18.3003 77.9017 24.3047C77.9017 27.256 75.5092 29.6485 72.5579 29.6485C56.7093 30.7354 23.2191 31.0613 6.37042 29.6485C3.41915 29.6485 1.02667 27.256 1.02667 24.3047C0.0525171 20.0992 -0.687788 13.098 1.02667 5.92971C1.02667 2.97843 3.41915 0.585956 6.37042 0.585956Z"
+     sodipodi:nodetypes="ccccccccc"
+     transform="matrix(0.999998626162515 -0.00165761065474378 0.00165761065474378 0.999998626162515 3.63553389664109 2.94808140438866)" />
+</svg>
