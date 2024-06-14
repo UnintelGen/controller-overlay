@@ -2,9 +2,9 @@
 <!-- Created using Krita: https://krita.org -->
 
 <svg
-   width="34.5pt"
-   height="46.5pt"
-   viewBox="0 0 34.5 46.5"
+   width="46.5pt"
+   height="45pt"
+   viewBox="0 0 46.5 45"
    version="1.1"
    id="svg1"
    sodipodi:docname="down.svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="6.5330518"
-     inkscape:cx="16.684392"
-     inkscape:cy="23.725512"
+     inkscape:zoom="14.166667"
+     inkscape:cx="24.282353"
+     inkscape:cy="23.22353"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -36,33 +36,43 @@
      id="defs1" />
   <rect
      id="shape0"
-     transform="rotate(90)"
+     transform="matrix(0,1,1,0,0,0)"
      fill="#ff3fff"
      fill-rule="evenodd"
-     stroke="none"
-     stroke-width="26.6813"
+     stroke-opacity="0"
+     stroke="#000000"
+     stroke-width="0"
      stroke-linecap="square"
      stroke-linejoin="bevel"
      width="46.546875"
-     height="27.215109"
+     height="35.751251"
      rx="5.4843774"
-     ry="5.3330569"
-     x="-2.0863895"
-     y="-30.937323" />
+     ry="7.0057936"
+     x="-5.6089835"
+     y="5.38486" />
   <path
      id="shape1"
      fill="#ff3fff"
      fill-rule="evenodd"
-     d="m 30.731776,9.2015433 c 0.81343,-2.3139696 1.931406,-4.4439321 5.549905,-5.9441828 H -1.827673 c 3.2249877,1.1280786 4.6086663,2.4386853 5.3032683,5.8026555 0,0 9.0853417,0.047179 27.2561807,0.1415273 z"
-     sodipodi:nodetypes="ccccc"
-     style="stroke-width:0.889378" />
+     stroke-opacity="0"
+     stroke="#000000"
+     stroke-width="0"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     d="M 5.5198815,9.1945737 C 4.4513166,6.8806047 2.9826826,4.7506412 -1.7707754,3.2503912 H 48.291745 c -4.236519,1.128078 -6.054195,2.4386855 -6.966662,5.8026555 0,0 -11.934998,0.04718 -35.8052015,0.141527 z"
+     sodipodi:nodetypes="ccccc" />
   <rect
      id="shape2"
+     transform="matrix(0,1,1,0,0,0)"
      fill="#ff3fff"
      fill-rule="evenodd"
+     stroke-opacity="0"
+     stroke="#000000"
+     stroke-width="0"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
      width="3.75"
-     height="34.5"
-     x="0.022985594"
-     y="-34.476994"
-     transform="rotate(90)" />
+     height="50.403431"
+     x="0.016015779"
+     y="-1.9412175" />
 </svg>
