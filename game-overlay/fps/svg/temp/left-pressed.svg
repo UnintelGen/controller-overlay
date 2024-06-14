@@ -11,6 +11,7 @@
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -25,7 +26,7 @@
      inkscape:document-units="pt"
      inkscape:zoom="9.6942059"
      inkscape:cx="37.03243"
-     inkscape:cy="27.026453"
+     inkscape:cy="27.129607"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -35,10 +36,22 @@
   <defs
      id="defs2">
     <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:0;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
        id="gradient0"
        gradientUnits="userSpaceOnUse"
-       x1="19.043769"
-       y1="18.755607"
+       x1="19.04377"
+       y1="18.755608"
        x2="19.043769"
        y2="41.952603"
        spreadMethod="pad"
@@ -50,10 +63,20 @@
          id="stop1" />
       <stop
          stop-color="#6b6a7b"
-         offset="0.716942148760331"
+         offset="0.71694213"
          stop-opacity="1"
-         id="stop2" />
+         id="stop2"
+         style="stop-color:#6b6a7b;stop-opacity:0;" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient4"
+       x1="22.541336"
+       y1="23.35836"
+       x2="34.782135"
+       y2="23.317303"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      id="shape0"
@@ -65,5 +88,5 @@
      stroke-linejoin="bevel"
      d="m 40.369627,43.739606 -0.6727,-0.73093 -0.701,-0.60632 -0.7256,-0.50547 -0.7466,-0.42834 -0.4888,-0.23994 h -26.53402 l -1.1053002,-0.14233 -1.02947,-0.40822 -0.9316,-0.64593 -0.81167,-0.85547 -0.669694,-1.03683 -0.505656,-1.19004 -0.319567,-1.31506 -0.111423,-1.41191 v -21.73971 l 0.111423,-1.4119 0.319567,-1.3149998 0.505656,-1.1901 0.669694,-1.0368 0.81167,-0.8555 0.9316,-0.6459 1.02947,-0.4082 1.1053002,-0.1423 h 26.39972 l 2e-4,-0.0492 3e-4,-0.0777 2e-4,-0.0466 v -0.0156 l 1.1689,-0.3875 0.9983,-0.4902 0.8497,-0.6104 0.7229,-0.7486"
      sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
-     style="fill:url(#gradient0)" />
+     style="fill:url(#gradient0);stroke:url(#linearGradient4)" />
 </svg>

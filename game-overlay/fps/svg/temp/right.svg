@@ -2,19 +2,20 @@
 <!-- Created using Krita: https://krita.org -->
 
 <svg
-   width="66pt"
-   height="45pt"
-   viewBox="0 0 66 45"
+   width="64.5pt"
+   height="46.5pt"
+   viewBox="0 0 64.5 46.5"
    version="1.1"
-   id="svg1"
+   id="svg2"
    sodipodi:docname="right.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview1"
+     id="namedview2"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -23,53 +24,70 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="4.8372532"
-     inkscape:cx="64.706143"
-     inkscape:cy="45.066899"
+     inkscape:zoom="6.8548387"
+     inkscape:cx="44.494118"
+     inkscape:cy="49.745882"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="svg2" />
   <defs
-     id="defs1" />
-  <rect
+     id="defs2">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d3d3d3;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:0;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="gradient0"
+       gradientUnits="userSpaceOnUse"
+       x1="19.04377"
+       y1="18.75561"
+       x2="19.043769"
+       y2="41.952603"
+       spreadMethod="pad"
+       gradientTransform="matrix(0,1.0702317,-0.93437707,0,58.596871,3.0175851)">
+      <stop
+         stop-color="#ffffff"
+         offset="0"
+         stop-opacity="1"
+         id="stop1"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         stop-color="#6b6a7b"
+         offset="0.71694213"
+         stop-opacity="1"
+         id="stop2"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient4"
+       x1="41.07206"
+       y1="23.39883"
+       x2="29.180105"
+       y2="23.471933"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
      id="shape0"
-     transform="scale(1,-1)"
-     fill="#ff3fff"
+     fill="url(#gradient0)"
      fill-rule="evenodd"
-     stroke-opacity="0"
-     stroke="#000000"
-     stroke-width="0"
+     stroke="#1a1a1a"
+     stroke-width="3.75"
      stroke-linecap="square"
      stroke-linejoin="bevel"
-     width="43.703201"
-     height="35.751251"
-     rx="5.149322"
-     ry="7.0057936"
-     x="12.146137"
-     y="-40.375626" />
-  <path
-     id="shape1"
-     fill="#ff3fff"
-     fill-rule="evenodd"
-     stroke-opacity="0"
-     stroke="#000000"
-     stroke-width="0"
-     stroke-linecap="square"
-     stroke-linejoin="bevel"
-     d="m 24.106017,40.240639 c -2.31397,1.0685 -4.44393,2.5372 -5.94418,7.2906 V -2.5312606 c 1.12808,4.23652 2.43868,6.05419 5.80265,6.96666 0,0 0.04719,11.9350396 0.14153,35.8052396 z"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     id="shape2"
-     fill="#ff3fff"
-     fill-rule="evenodd"
-     stroke-opacity="0"
-     stroke="#000000"
-     stroke-width="0"
-     stroke-linecap="square"
-     stroke-linejoin="bevel"
-     d="m 18.677413,45.160526 v -45.3211 l -18.65620104,22.6606 z"
-     sodipodi:nodetypes="cccc" />
+     d="m 23.243771,3.0175851 0.6727,0.73093 0.701,0.60632 0.7256,0.50547 0.7466,0.42834 0.4888,0.23994 h 26.53402 l 1.1053,0.14233 1.02947,0.40822 0.9316,0.64593 0.81167,0.85547 0.669694,1.03683 0.505656,1.19004 0.319567,1.3150609 0.111423,1.41191 v 21.73971 l -0.111423,1.4119 -0.319567,1.315 -0.505656,1.1901 -0.669694,1.0368 -0.81167,0.8555 -0.9316,0.6459 -1.02947,0.4082 -1.1053,0.1423 h -26.39972 l -2e-4,0.0492 -3e-4,0.0777 -2e-4,0.0466 v 0.0156 l -1.1689,0.3875 -0.9983,0.4902 -0.8497,0.6104 -0.7229,0.7486"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+     style="fill:url(#gradient0);stroke:url(#linearGradient4)" />
 </svg>
