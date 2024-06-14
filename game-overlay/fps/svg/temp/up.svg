@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="4.9418605"
-     inkscape:cx="15.176471"
-     inkscape:cy="41.28"
+     inkscape:cx="15.17647"
+     inkscape:cy="41.482353"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -61,7 +61,7 @@
          offset="0"
          stop-opacity="1"
          id="stop1"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#b2b2b2;stop-opacity:1;" />
       <stop
          stop-color="#6b6a7b"
          offset="0.71694213"
