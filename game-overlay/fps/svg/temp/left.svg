@@ -6,8 +6,8 @@
     xmlns:krita="http://krita.org/namespaces/svg/krita"
     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
     width="46.5pt"
-    height="34.5pt"
-    viewBox="0 0 46.5 34.5">
+    height="45pt"
+    viewBox="0 0 46.5 45">
 <defs/>
-<rect id="shape0" transform="matrix(-0.901907352851065 0 0 -0.877022653721701 48.4921874183746 31.0892361343812)" fill="#ff3fff" fill-rule="evenodd" stroke="none" stroke-width="30" stroke-linecap="square" stroke-linejoin="bevel" width="51.6093749655651" height="31.0312496585817" rx="6.0808654856583" ry="6.0808654856583"/><path id="shape1" transform="matrix(-0.901907352851066 0 0 -0.882955744160675 43.1484375426074 36.4335930602943)" fill="#ff3fff" fill-rule="evenodd" d="M6.59068 6.32812C4.02504 5.40063 1.66342 4.12589 0 0L0 43.4531C1.25077 39.7759 2.70392 38.1982 6.43376 37.4062C6.43376 37.4062 6.48607 27.0469 6.59068 6.32812Z" sodipodi:nodetypes="ccccc"/><rect id="shape2" transform="matrix(-1 0 0 -1.00676503669979 46.3828124293645 34.6166968830714)" fill="#ff3fff" fill-rule="evenodd" width="3.75" height="34.5"/>
+<rect id="shape0" transform="matrix(-0.901907352851066 0 0 -1.15210471132647 52.101561757069 40.3756244649999)" fill="#ff3fff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="51.6093749655651" height="31.0312496585817" rx="6.0808654856583" ry="6.0808654856583"/><path id="shape1" transform="matrix(-0.901907352851066 0 0 -1.15210471132647 43.2421871091659 47.5312606158701)" fill="#ff3fff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M6.59068 6.32812C4.02504 5.40063 1.66342 4.12589 0 0L0 43.4531C1.25077 39.7759 2.70392 38.1982 6.43376 37.4062C6.43376 37.4062 6.48607 27.0469 6.59068 6.32812Z" sodipodi:nodetypes="ccccc"/><rect id="shape2" transform="matrix(-1 0 0 -1.31365444944602 46.4765619959229 45.1605249820481)" fill="#ff3fff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="3.75" height="34.5"/>
 </svg>
