@@ -1,41 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="34.33" height="55.29" viewBox="0 0 34.33 55.29">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #edf4f4;
-      }
-
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
-        stroke-width: 0px;
-      }
-
-      .cls-2 {
-        fill: #e8e8e8;
-      }
-
-      .cls-3 {
-        fill: #e3e3e3;
-      }
-
-      .cls-4 {
-        fill: #ebebeb;
-      }
-
-      .cls-5 {
-        fill: #f0f0f0;
-      }
-    </style>
-  </defs>
-  <g id="Layer_1-2" data-name="Layer 1">
-    <g id="Down">
-      <g>
-        <path class="cls-4" d="m17.17,51.21c-7.14,0-12.75-1.32-13-3.08,0-.05,0-.09,0-.14V13.77L17.17.71l13.06,13.06v34.38c-.32,1.74-5.93,3.06-13.06,3.06Z"/>
-        <path class="cls-1" d="m17.17,1.41l12.56,12.59v34s0,.04,0,.06c-.19,1.12-4.66,2.66-12.55,2.66s-12.37-1.55-12.57-2.66c0-.02,0-.05,0-.07V14L17.17,1.41m0-1.41L3.6,13.56v34.44h0c0,.08,0,.15,0,.23.41,2.33,7,3.49,13.54,3.49s13.14-1.16,13.55-3.49c0-.08,0-.15,0-.23V13.56L17.17,0Z"/>
-      </g>
-      <path class="cls-5" d="m30.73,48l2.75,2.77c.55-.82.85-1.78.85-2.77v-30.82l-3.6-3.62v34.44Z"/>
-      <path class="cls-2" d="m30.71,48.22c-.41,2.33-7,3.49-13.54,3.49s-13.17-1.16-13.55-3.49c0-.08,0-.15,0-.23l-2.8,2.77c.93,1.36,2.74,2.7,6.17,3.52,3.34.72,6.76,1.06,10.18,1,3.42.06,6.83-.28,10.17-1,3.43-.82,5.24-2.16,6.14-3.52l-2.75-2.76c0,.07,0,.15-.02.22Z"/>
-      <path class="cls-3" d="m3.6,48h0V13.56l-3.6,3.62v31.65l.09.24c.14.6.39,1.17.73,1.69l2.78-2.76Z"/>
-    </g>
-  </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="46.5pt"
+    height="64.5pt"
+    viewBox="0 0 46.5 64.5">
+<defs>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0.500789535619417" y1="0.483173099653746" x2="0.500789535619417" y2="1.02300587787075" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0" stop-opacity="1"/>
+   <stop stop-color="#6b6a7b" offset="0.716942148760331" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+<path id="shape0" transform="matrix(-1 0 0 -1 43.5618871 60.3176160550159)" fill="url(#gradient0)" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="3.75" stroke-linecap="square" stroke-linejoin="bevel" d="M0 35.3531L0.73093 34.6804L1.33725 33.9794L1.84272 33.2538L2.27106 32.5072L2.511 32.0184L2.511 5.48438L2.65333 4.37908L3.06155 3.34961L3.70748 2.41801L4.56295 1.60634L5.59978 0.936646L6.78982 0.43099L8.10488 0.111423L9.51679 0L31.2565 0L32.6684 0.111423L33.9834 0.43099L35.1735 0.936646L36.2103 1.60634L37.0658 2.41801L37.7117 3.34961L38.1199 4.37908L38.2622 5.48438L38.2622 31.8841L38.3114 31.8843L38.3891 31.8846L38.4357 31.8848L38.4513 31.8848L38.8388 33.0537L39.329 34.052L39.9394 34.9017L40.688 35.6246" sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"/>
 </svg>

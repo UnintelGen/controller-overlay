@@ -1,41 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="55.32" height="34.36" viewBox="0 0 55.32 34.36">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #edf4f4;
-      }
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Krita: https://krita.org -->
 
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
-        stroke-width: 0px;
-      }
-
-      .cls-2 {
-        fill: #e8e8e8;
-      }
-
-      .cls-3 {
-        fill: #ebebeb;
-      }
-
-      .cls-4 {
-        fill: #f0f0f0;
-      }
-
-      .cls-5 {
-        fill: #e6e6e6;
-      }
-    </style>
+<svg
+   width="64.5pt"
+   height="46.5pt"
+   viewBox="0 0 64.5 46.5"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="right-pressed.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="6.8548387"
+     inkscape:cx="44.494118"
+     inkscape:cy="49.745882"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="gradient0"
+       gradientUnits="userSpaceOnUse"
+       x1="19.043769"
+       y1="18.755607"
+       x2="19.043769"
+       y2="41.952603"
+       spreadMethod="pad"
+       gradientTransform="matrix(0,1.0702317,-0.93437707,0,58.596871,3.0175851)">
+      <stop
+         stop-color="#ffffff"
+         offset="0"
+         stop-opacity="1"
+         id="stop1" />
+      <stop
+         stop-color="#6b6a7b"
+         offset="0.716942148760331"
+         stop-opacity="1"
+         id="stop2" />
+    </linearGradient>
   </defs>
-  <g id="Layer_1-2" data-name="Layer 1">
-    <g id="Right">
-      <g>
-        <path class="cls-3" d="m13.77,30.24L.71,17.18,13.77,4.12h34.23c1.81,0,3.23,5.74,3.23,13.06s-1.44,13.06-3.23,13.06H13.77Z"/>
-        <path class="cls-1" d="m48,4.62c1.14,0,2.73,4.78,2.73,12.56s-1.61,12.56-2.73,12.56H14L1.41,17.18,14,4.62h34m0-1H13.56L0,17.18l13.56,13.56h34.44c5,0,5-27.12,0-27.12Z"/>
-      </g>
-      <path class="cls-5" d="m48,3.62l2.76-2.77c-.82-.55-1.78-.84-2.76-.85h-30.83l-3.61,3.68,34.44-.06Z"/>
-      <path class="cls-2" d="m48,30.74H13.56l3.6,3.62h32.32l.34-.35c.32-.13.63-.3.92-.5l-2.74-2.77Z"/>
-      <path class="cls-4" d="m50.74.85l-2.74,2.77c5,0,5,27.12,0,27.12l2.76,2.77c1.37-.93,2.71-2.74,3.55-6.14.71-3.35,1.05-6.77,1-10.19.05-3.42-.28-6.84-1-10.19-.86-3.4-2.2-5.21-3.57-6.14Z"/>
-    </g>
-  </g>
+  <path
+     id="shape0"
+     fill="url(#gradient0)"
+     fill-rule="evenodd"
+     stroke="#1a1a1a"
+     stroke-width="3.75"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     d="m 23.243771,3.0175851 0.6727,0.73093 0.701,0.60632 0.7256,0.50547 0.7466,0.42834 0.4888,0.23994 h 26.53402 l 1.1053,0.14233 1.02947,0.40822 0.9316,0.64593 0.81167,0.85547 0.669694,1.03683 0.505656,1.19004 0.319567,1.3150609 0.111423,1.41191 v 21.73971 l -0.111423,1.4119 -0.319567,1.315 -0.505656,1.1901 -0.669694,1.0368 -0.81167,0.8555 -0.9316,0.6459 -1.02947,0.4082 -1.1053,0.1423 h -26.39972 l -2e-4,0.0492 -3e-4,0.0777 -2e-4,0.0466 v 0.0156 l -1.1689,0.3875 -0.9983,0.4902 -0.8497,0.6104 -0.7229,0.7486"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+     style="fill:url(#gradient0)" />
 </svg>
