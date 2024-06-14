@@ -1,13 +1,75 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Krita: https://krita.org -->
-<svg xmlns="http://www.w3.org/2000/svg" 
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:krita="http://krita.org/namespaces/svg/krita"
-    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    width="46.5pt"
-    height="64.5pt"
-    viewBox="0 0 46.5 64.5">
-<defs/>
-<rect id="shape0" transform="matrix(0 1 1 0 5.38486 -5.6089835)" fill="#ff3fff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="46.546875" height="35.751251" rx="5.4843774" ry="7.0057936"/><path id="shape1" transform="translate(-1.7707754, 3.2503912)" fill="#ff3fff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M7.29066 5.94418C6.22209 3.63021 4.75346 1.50025 0 0L50.0625 0C45.826 1.12808 44.0083 2.43869 43.0959 5.80266C43.0959 5.80266 31.1609 5.84984 7.29066 5.94418Z" sodipodi:nodetypes="ccccc"/><path id="shape2" transform="matrix(0 1 1 0 -1.9412175 -19.8121086817817)" fill="#ff3fff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M23.5781 0L23.5781 50.4034L0 25.1912Z" sodipodi:nodetypes="cccc"/>
+
+<svg
+   width="46.5pt"
+   height="64.5pt"
+   viewBox="0 0 46.5 64.5"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="down.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="3.494423"
+     inkscape:cx="28.617027"
+     inkscape:cy="4.2925541"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <rect
+     id="shape0"
+     transform="matrix(0,1,1,0,0,0)"
+     fill="#ff3fff"
+     fill-rule="evenodd"
+     stroke-opacity="0"
+     stroke="#000000"
+     stroke-width="0"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     width="46.546875"
+     height="35.751251"
+     rx="5.4843774"
+     ry="7.0057936"
+     x="14.272193"
+     y="5.38486" />
+  <path
+     id="shape1"
+     fill="#ff3fff"
+     fill-rule="evenodd"
+     stroke-opacity="0"
+     stroke="#000000"
+     stroke-width="0"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     d="m 5.5198846,29.075748 c -1.06857,-2.31397 -2.5372,-4.44393 -7.29066,-5.94418 H 48.291725 c -4.2365,1.12808 -6.0542,2.43869 -6.9666,5.80266 0,0 -11.935,0.04718 -35.8052404,0.14152 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="shape2"
+     fill="#ff3fff"
+     fill-rule="evenodd"
+     stroke-opacity="0"
+     stroke="#000000"
+     stroke-width="0"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     d="M -1.9412175,23.647168 H 48.462182 L 23.249982,0.06906778 Z"
+     sodipodi:nodetypes="cccc" />
 </svg>
